@@ -30,8 +30,7 @@ To reproduce our experience, we include the KiCad files to manufacture our deliv
 
 When using or building upon this device in an academic publication, please consider citing as follows:
 
-A. Mazursky, J. Brooks, B. Desta and P. Lopes, "ThermalGrasp: Enabling Thermal Feedback even while Grasping and Walking," in 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), Orlando, FL, USA, 2024 pp. 342-353.
-doi: 10.1109/VR58804.2024.00056
+Alex Mazursky, Jacob Serfaty, and Pedro Lopes. 2024. Stick&Slip: Altering Fingerpad Friction via Liquid Coatings. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/3613904.3642299
 
 ## Contact
 
